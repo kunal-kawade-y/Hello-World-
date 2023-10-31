@@ -1,0 +1,5 @@
+#include<stuydio.h>
+void main ()
+{
+  printf("Hello World...!!!");
+}
